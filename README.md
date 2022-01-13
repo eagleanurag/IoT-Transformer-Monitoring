@@ -21,7 +21,7 @@
 The application is a transformer data logger and controller used for transformer testing. The application is build on python3 and Arduino. It monitors upto 5 transformers and controls the Transformers Voltage &amp; Current. Any time the transformers reach over Voltage or under Current situation, the power supplies are automatically turned off. As a part of enhancement, the python modules can be updated to transmit the data to a remote host for IOT functionality. The code is platform independent. All the code are taken from open source forums.
 <br />
   
-  ### Robot In Action
+  ### Project Video
 
 <a href="https://drive.google.com/file/d/1jRJifPMjZ1IWTi3yOcVbKgZkJtqhxNZ_/view?usp=sharing" target="_blank">
 <img align="center" alt="eagleanurag" src="https://raw.githubusercontent.com/eagleanurag/IoT-Transformer-Monitoring/main/img/pro.gif" />
